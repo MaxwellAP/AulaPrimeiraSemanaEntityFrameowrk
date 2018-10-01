@@ -31,3 +31,8 @@ Foram realizados encontros de uma hora e trinta minutos nos dias 27 e 29 de Nove
   * Projections
 * Log DBContex
   * Utilizar o log do entity para exibir o SQL em modelo Consolte DBContext.Configuration.log = Console.Write; 
+  
+  ## Fontes de pesquisa e estudo.
+  <https://docs.microsoft.com/pt-br/ef/>
+  <http://thedatafarm.com/blog/>
+  <http://www.entityframeworktutorial.net>
