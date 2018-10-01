@@ -30,9 +30,9 @@ Foram realizados encontros de uma hora e trinta minutos nos dias 27 e 29 de Nove
   * Explicit loading 
   * Projections
 * Log DBContex
-  * Utilizar o log do entity para exibir o SQL em modelo Consolte DBContext.Configuration.log = Console.Write; 
+  * Utilizar o log do entity para exibir o SQL em modelo Consolte DBContext.Configuration.log = Console.Write
   
   ## Fontes de pesquisa e estudo.
-  *<https://docs.microsoft.com/pt-br/ef/>
-  *<http://thedatafarm.com/blog/>
-  *<http://www.entityframeworktutorial.net>
+  [Site oficial](https://docs.microsoft.com/pt-br/ef/ "Site Oficial")  
+  [Blog Julie lerman](http://thedatafarm.com/blog/ "Blog Julie lerman")  
+  [Tutoriais](http://www.entityframeworktutorial.net "Tutoriais")  
