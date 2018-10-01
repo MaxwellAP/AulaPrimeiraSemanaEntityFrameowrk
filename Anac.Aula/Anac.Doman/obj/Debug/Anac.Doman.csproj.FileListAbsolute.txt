@@ -1,0 +1,6 @@
+D:\BanckEnd\Anac.Aula\Anac.Doman\bin\Debug\Anac.Doman.dll
+D:\BanckEnd\Anac.Aula\Anac.Doman\bin\Debug\Anac.Doman.pdb
+D:\BanckEnd\Anac.Aula\Anac.Doman\obj\Debug\Anac.Doman.csproj.CoreCompileInputs.cache
+D:\BanckEnd\Anac.Aula\Anac.Doman\obj\Debug\Anac.Doman.dll
+D:\BanckEnd\Anac.Aula\Anac.Doman\obj\Debug\Anac.Doman.pdb
+D:\BanckEnd\Anac.Aula\Anac.Doman\obj\Debug\Anac.Doman.csprojAssemblyReference.cache

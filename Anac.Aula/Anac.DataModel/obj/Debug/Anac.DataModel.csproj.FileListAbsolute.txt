@@ -1,0 +1,15 @@
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\Anac.DataModel.dll
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\Anac.DataModel.pdb
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\Anac.Doman.dll
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\EntityFramework.dll
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\Anac.Doman.pdb
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\EntityFramework.xml
+D:\BanckEnd\Anac.Aula\Anac.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.csprojAssemblyReference.cache
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.csproj.CoreCompileInputs.cache
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.csproj.CopyComplete
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.dll
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.pdb
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.Migrations.Initial.resources
+D:\BanckEnd\Anac.Aula\Anac.DataModel\obj\Debug\Anac.DataModel.csproj.GenerateResource.cache

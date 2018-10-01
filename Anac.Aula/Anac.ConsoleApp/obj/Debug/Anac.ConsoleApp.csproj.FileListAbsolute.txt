@@ -1,0 +1,16 @@
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.ConsoleApp.exe.config
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.ConsoleApp.exe
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.ConsoleApp.pdb
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.DataModel.dll
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.Doman.dll
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\EntityFramework.dll
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.DataModel.pdb
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\Anac.Doman.pdb
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\EntityFramework.xml
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\obj\Debug\Anac.ConsoleApp.csprojAssemblyReference.cache
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\obj\Debug\Anac.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\obj\Debug\Anac.ConsoleApp.csproj.CopyComplete
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\obj\Debug\Anac.ConsoleApp.exe
+D:\BanckEnd\Anac.Aula\Anac.ConsoleApp\obj\Debug\Anac.ConsoleApp.pdb

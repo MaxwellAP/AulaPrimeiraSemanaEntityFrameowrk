@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ab8d93d04db14db489dd76cfb8ce99a5" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="SICCORModel.ANDAMENTO_PROCESSO" Width="1.5" PointX="11.25" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ATIVIDADE" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ATO_PRATICADO" Width="1.5" PointX="15" PointY="25.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ATO_PROCESSO" Width="1.5" PointX="6.75" PointY="43.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.AUTORIDADE" Width="1.5" PointX="12" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.COMISSAO_DISCIPLINAR" Width="1.5" PointX="12" PointY="47.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.COMISSAO_DISCIPLINAR_PROCESSO" Width="1.5" PointX="14.25" PointY="33.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.CONTEUDO_DECISAO" Width="1.5" PointX="9" PointY="26.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.CORREICAO" Width="1.5" PointX="3" PointY="33.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.DECISAO_JUDICIAL" Width="1.5" PointX="11.25" PointY="28.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.DEMANDA_ESPECIAL" Width="1.5" PointX="6" PointY="34.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.DISTRIBUICAO_PROCESSO" Width="1.5" PointX="13.5" PointY="41.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ENDERECO_COMISSAO" Width="1.5" PointX="12" PointY="56" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ENVOLVIDO_PROCESSO" Width="1.5" PointX="11.25" PointY="38.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ESPECIE" Width="1.5" PointX="6.75" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.FASE_ATO_PROCESSO" Width="1.5" PointX="9" PointY="44.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.FASE_PROCESSO" Width="1.5" PointX="6.75" PointY="45.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.INTERESSADO" Width="1.5" PointX="11.25" PointY="43.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.JULGAMENTO" Width="1.5" PointX="14.25" PointY="28.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.LOCAL_ORGAO" Width="1.5" PointX="9.75" PointY="48.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.MEIO_PUBLICACAO" Width="1.5" PointX="12" PointY="23.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.OBJETO" Width="1.5" PointX="0.75" PointY="33.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.OBJETO_TIPO_PROCESSO" Width="1.5" PointX="3" PointY="30.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ORGAO" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ORGAO_EXTERNO" Width="1.5" PointX="12" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.ORGAO_PROLATOR" Width="1.5" PointX="9" PointY="24" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PEDIDO_CERTIDAO" Width="1.5" PointX="11.25" PointY="52.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PROCESSO" Width="1.5" PointX="9" PointY="31.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PROCESSO_ADMINISTRATIVO_DISCIPLINAR" Width="1.5" PointX="14.25" PointY="37.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PROCESSO_ADMINISTRATIVO_GERAL" Width="1.5" PointX="11.25" PointY="59.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PROCESSO_NEGOCIO" Width="1.5" PointX="12" PointY="63.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PROCESSO_PORTARIA" Width="1.5" PointX="17.25" PointY="32.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.PROCESSO_RELACIONADO" Width="1.5" PointX="11.25" PointY="69.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.RELATORIO_FINAL" Width="1.5" PointX="17.25" PointY="29.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.SICCOR_APLICACAO_LOG" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.SUSPENSAO_PRESCRICAO" Width="1.5" PointX="11.25" PointY="75.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_ATIVIDADE" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_CONTEUDO_DECISAO" Width="1.5" PointX="6.75" PointY="27.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_DECISAO" Width="1.5" PointX="9" PointY="40.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_ENVOLVIMENTO" Width="1.5" PointX="9" PointY="51.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_JULGAMENTO" Width="1.5" PointX="12" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_PORTARIA" Width="1.5" PointX="15" PointY="45.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SICCORModel.TIPO_PROCESSO" Width="1.5" PointX="0.75" PointY="30.25" IsExpanded="true" />
+        <AssociationConnector Association="SICCORModel.FK_ANDAMENTOPROCESSO_FASEATOPROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_ANDAMENTOPROCESSO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DISTRIBUICAOPROCESSO_ANDAMENTOPROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSOPORTARIA_ATOPRATICADO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_FASEATOPROCESSO_ATOPROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_JULGAMENTO_AUTORIDADE" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_COMISSAO_DISCIPLINAR_LOCAL_ORGAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_COMISSAO_DISCIPLINAR_PROCESSO_COMISSAO_DISCIPLINAR" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_COMISSAO_DISCIPLINAR_PROCESSO_ORGAO_EXTERNO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_COMISSAO_DISCIPLINAR_PROCESSO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_CONTEUDODECISAO_TIPOCONTEUDODECISAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DECISAOJUDICIAL_CONTEUDODECISAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_JULGAMENTO_CONTEUDODECISAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_RELATORIOFINAL_CONTEUDODECISAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_CORREICAO_OBJETO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_CORREICAO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DECISAOJUDICIAL_ORGAOPROLATOR" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DECISAOJUDICIAL_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DECISAOJUDICIAL_TIPODECISAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DEMANDA_ESPECIAL_OBJETO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_DEMANDA_ESPECIAL_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_ADMINISTRATIVO_DISCIPLINAR_ENDERECO_COMISSAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_ENVOLVIDOPROCESSO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_ENVOLVIDOPROCESSO_PROCESSOPORTARIA" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_ENVOLVIDOPROCESSO_TIPOENVOLVIMENTO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_ESPECIE" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_FASEATOPROCESSO_FASEPROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_INTERESSADO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_JULGAMENTO_MEIOPUBLICACAO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_JULGAMENTO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_JULGAMENTO_TIPOJULGAMENTO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_OBJETO_TIPO_PROCESSO_OBJETO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_OBJETO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_OBJETO_TIPO_PROCESSO_TIPO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_PORTARIA_ORGAO_EXTERNO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PEDIDO_CERTIDAO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_ADMINISTRATIVO_DISCIPLINAR_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_ADMINISTRATIVO_GERAL_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_PORTARIA_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_RELACIONADO_PROCESSO_1" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_RELACIONADO_PROCESSO_2" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_TIPO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_RELATORIOFINAL_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_SUSPENSAOPRESCRICAO_PROCESSO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_ADMINISTRATIVO_DISCIPLINAR_PROCESSO_NEGOCIO" ManuallyRouted="false" />
+        <AssociationConnector Association="SICCORModel.FK_PROCESSO_PORTARIA_TIPO_PORTARIA" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
