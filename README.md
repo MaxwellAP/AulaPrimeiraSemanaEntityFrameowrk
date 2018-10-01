@@ -4,7 +4,7 @@ Foram realizados encontros de uma hora e trinta minutos nos dias 27 e 29 de Nove
 
 ## Temas abordados
 
-* Code Firts (Migrations)
+1* Code Firts (Migrations)
   * Enable-Migrations
   * Add-migrations
   * Update-database
