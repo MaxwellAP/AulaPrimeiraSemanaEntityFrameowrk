@@ -25,5 +25,9 @@ Foram realizados encontros de uma hora e trinta minutos nos dias 27 e 29 de Nove
   * Diferenças entre First() e FirstOrDefault()
   * ToList()
   * Diferenças entre Sigle() e SingleOrDefault()
+  * Eager Loading 
+  * Lazy Loading 
+  * Explicit loading 
+  * Projections
 * Log DBContex
   * Utilizar o log do entity para exibir o SQL em modelo Consolte DBContext.Configuration.log = Console.Write; 
